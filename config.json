@@ -1,0 +1,16 @@
+{
+  "api_name":
+    {
+      "url": "https://apidojo-yahoo-finance-v1.p.rapidapi.com/market/get-earnings",
+      "querystring": {
+        "region": "US",
+        "startDate": "1585155600000",
+        "endDate": "1589475600000",
+        "size": "1000"
+      }
+    },
+  "headers": {
+    "x-rapidapi-key": "1fa37c42c3mshbceba5a9c81d86dp1ac8b8jsn7db6621ff503",
+    "x-rapidapi-host": "apidojo-yahoo-finance-v1.p.rapidapi.com"
+  }
+}
