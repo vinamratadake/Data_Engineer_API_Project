@@ -3,6 +3,7 @@ import json
 import pandas
 from pandas.io.json import json_normalize
 from tabulate import tabulate
+from datetime import datetime
 
 
 try:
@@ -31,10 +32,10 @@ try:
 
     # Display dataframe in tabular format
     print(tabulate(df_result, headers='keys', tablefmt='psql'))
-    print("Creating file")
+    print("Creating file....")
     # Create a CSV from dataframe
     df_result.to_csv(file_name+'.csv',index=False)
-    print("File has been created")
+    print("File has been created..!!")
 
     # Raise error in case of failure
     response.raise_for_status()
