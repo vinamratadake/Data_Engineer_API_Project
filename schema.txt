@@ -1,0 +1,8 @@
+CREATE TABLE EARNINGS (
+    companyShortName VARCHAR(50) PRIMARY KEY,
+    rank INT NOT NULL,
+    startDateTime DATETIME NOT NULL,
+    startDateTimeType VARCHAR(10) NOT NULL,
+    surprisePercent VARCHAR(15),
+    ticker VARCHAR(10) NOT NULL
+)
