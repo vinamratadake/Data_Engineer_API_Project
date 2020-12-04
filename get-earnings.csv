@@ -1,101 +1,101 @@
-companyShortName,rank,startDateTime,startDateTimeType,surprisePercent,ticker
-Sundial Growers Inc.,288473,2020-03-29 17:00:00,TNS,-635.14,SNDL
-GameStop Corp.,144188,2020-03-25 17:00:00,TNS,61.37,GME
-BioNTech SE,138907,2020-03-30 17:00:00,TNS,-51.16,BNTX
-Aphria Inc.,134333,2020-04-13 17:00:00,TNS,148.78,APHA
-AT&T Inc.,127039,2020-04-21 17:00:00,TNS,-0.94,T
-Blink Charging Co.,120598,2020-04-01 17:00:00,TNS,-22.22,BLNK
-Intel Corporation,115265,2020-04-22 17:00:00,TNS,13.46,INTC
-CytoDyn Inc.,110324,2020-04-08 17:00:00,TNS,-166.67,CYDY
-Bank of America Corporation,93636,2020-04-14 17:00:00,TNS,-13.23,BAC
-Wells Fargo & Company,87594,2020-04-13 17:00:00,TNS,-96.94,WFC
-"Netflix, Inc.",86518,2020-04-20 17:00:00,TNS,-4.96,NFLX
-"Delta Air Lines, Inc.",85723,2020-04-21 17:00:00,TNS,26.72,DAL
-"Genius Brands International, Inc.",83366,2020-03-29 17:00:00,TNS,,GNUS
-Johnson & Johnson,76550,2020-04-13 17:00:00,TNS,15.29,JNJ
-HEXO Corp.,74960,2020-03-29 17:00:00,TNS,-1184.09,HEXO
-"Cocrystal Pharma, Inc.",71377,2020-03-26 17:00:00,TNS,28.57,COCP
-The Coca-Cola Company,70014,2020-04-20 17:00:00,TNS,14.86,KO
-Freeport-McMoRan Inc.,65629,2020-04-23 17:00:00,TNS,12.09,FCX
-JPMorgan Chase & Co.,65141,2020-04-13 17:00:00,TNS,-57.65,JPM
-International Business Machines Corporation,62941,2020-04-19 17:00:00,TNS,2.51,IBM
-Citigroup Inc.,60351,2020-04-14 17:00:00,TNS,0.57,C
-Northern Dynasty Minerals Ltd.,58431,2020-03-29 17:00:00,TNS,-300.0,NAK
-Taiwan Semiconductor Manufacturing Company Limited,54714,2020-04-15 17:00:00,TNS,2.32,TSM
-Verizon Communications Inc.,54708,2020-04-23 17:00:00,TNS,3.03,VZ
-OrganiGram Holdings Inc.,53159,2020-04-13 17:00:00,TNS,-64.0,OGI
-GrowGeneration Corp.,52874,2020-03-26 17:00:00,TNS,-138.46,GRWG
-Snap Inc.,52750,2020-04-20 17:00:00,TNS,-6.67,SNAP
-Cronos Group Inc.,50558,2020-03-29 17:00:00,TNS,622.58,CRON
-"Pacific Ethanol, Inc.",49752,2020-03-25 17:00:00,TNS,7.41,PEIX
-"NextEra Energy, Inc.",49423,2020-04-21 17:00:00,TNS,5.31,NEE
-"Walgreens Boots Alliance, Inc.",47738,2020-04-01 17:00:00,TNS,4.25,WBA
-"Heat Biologics, Inc.",47553,2020-03-29 17:00:00,TNS,30.07,HTBX
-The Procter & Gamble Company,47219,2020-04-16 17:00:00,TNS,3.36,PG
-Rite Aid Corporation,45863,2020-04-15 17:00:00,TNS,-150.0,RAD
-Oramed Pharmaceuticals Inc.,45561,2020-04-05 17:00:00,TNS,-20.0,ORMP
-"Chewy, Inc.",44908,2020-04-01 17:00:00,TNS,11.76,CHWY
-BlackBerry Limited,44277,2020-03-30 17:00:00,TNS,119.51,BB
-"Titan Pharmaceuticals, Inc.",43810,2020-03-29 17:00:00,TNS,0.0,TTNP
-Mind Medicine (MindMed) Inc.,43420,2020-03-29 17:00:00,TNS,,MMEDF
-"Co-Diagnostics, Inc.",43300,2020-03-29 17:00:00,TNS,0.0,CODX
-"Cassava Sciences, Inc.",40729,2020-03-25 17:00:00,TNS,38.46,SAVA
-NexTech AR Solutions Corp.,40538,2020-03-25 17:00:00,TNS,,NEXCF
-"Sunworks, Inc.",40280,2020-03-29 17:00:00,TNS,-1866.67,SUNW
-"The Goldman Sachs Group, Inc.",39885,2020-04-14 17:00:00,TNS,-7.27,GS
-Lockheed Martin Corporation,39863,2020-04-20 17:00:00,TNS,4.83,LMT
-Planet 13 Holdings Inc.,39546,2020-04-13 17:00:00,TNS,,PLNHF
-Trulieve Cannabis Corp.,39359,2020-04-07 17:00:00,TNS,230.1,TCNNF
-"Kinder Morgan, Inc.",39072,2020-04-21 17:00:00,TNS,-12.09,KMI
-Canadian Solar Inc.,37936,2020-03-25 17:00:00,TNS,151.12,CSIQ
-"Arcimoto, Inc.",37879,2020-04-13 17:00:00,TNS,-2.56,FUV
-Biogen Inc.,37524,2020-04-21 17:00:00,TNS,18.19,BIIB
-"Village Farms International, Inc.",36062,2020-03-29 17:00:00,TNS,-4766.67,VFF
-Beam Global,35951,2020-03-29 17:00:00,TNS,-180.0,BEEM
-Abbott Laboratories,35627,2020-04-15 17:00:00,TNS,11.68,ABT
-MGM Resorts International,35102,2020-04-22 17:00:00,TNS,563.28,MGM
-"Limelight Networks, Inc.",34850,2020-04-22 17:00:00,TNS,100.0,LLNW
-Lululemon Athletica Inc.,34418,2020-03-25 17:00:00,TNS,1.83,LULU
-Thermo Fisher Scientific Inc.,33884,2020-04-21 17:00:00,TNS,5.19,TMO
-UnitedHealth Group Incorporated,33083,2020-04-14 17:00:00,TNS,2.59,UNH
-"Altimmune, Inc.",32619,2020-03-26 17:00:00,TNS,3.85,ALT
-Philip Morris International Inc.,32265,2020-04-20 17:00:00,TNS,7.08,PM
-FirstEnergy Corp.,31674,2020-04-22 17:00:00,TNS,4.6,FE
-Telefonaktiebolaget LM Ericsson (publ),31636,2020-04-21 17:00:00,TNS,-2.44,ERIC
-Platinum Group Metals Ltd.,31581,2020-04-07 17:00:00,TNS,,PLG
-RH,31378,2020-03-29 17:00:00,TNS,3.62,RH
-Schlumberger Limited,31327,2020-04-16 17:00:00,TNS,2.46,SLB
-Morgan Stanley,31242,2020-04-15 17:00:00,TNS,-11.25,MS
-American Express Company,30564,2020-04-23 17:00:00,TNS,-71.25,AXP
-Green Thumb Industries Inc.,30528,2020-03-25 17:00:00,TNS,-100.0,GTBIF
-"Xilinx, Inc.",30415,2020-04-21 17:00:00,TNS,9.33,XLNX
-"Chipotle Mexican Grill, Inc.",30272,2020-04-20 17:00:00,TNS,5.84,CMG
-"IZEA Worldwide, Inc.",30030,2020-03-29 17:00:00,TNS,-75.0,IZEA
-Halliburton Company,29610,2020-04-19 17:00:00,TNS,27.57,HAL
-Lam Research Corporation,29512,2020-04-21 17:00:00,TNS,0.0,LRCX
-Alcoa Corporation,29472,2020-04-21 17:00:00,TNS,6.12,AA
-Bed Bath & Beyond Inc.,29009,2020-04-14 17:00:00,TNS,88.12,BBBY
-"BlackRock, Inc.",28901,2020-04-15 17:00:00,TNS,3.76,BLK
-Eli Lilly and Company,28897,2020-04-22 17:00:00,TNS,18.24,LLY
-ASML Holding N.V.,28738,2020-04-14 17:00:00,TNS,-23.7,ASML
-The Blackstone Group Inc.,27755,2020-04-22 17:00:00,TNS,-8.0,BX
-"Intuitive Surgical, Inc.",27370,2020-04-15 17:00:00,TNS,5.74,ISRG
-Texas Instruments Incorporated,27354,2020-04-20 17:00:00,TNS,23.75,TXN
-"Jaguar Health, Inc.",27107,2020-04-02 17:00:00,TNS,,JAGX
-AIM ImmunoTech Inc.,26941,2020-03-29 17:00:00,TNS,63.78,AIM
-SAP SE,26749,2020-04-20 17:00:00,TNS,-8.01,SAP
-Aptinyx Inc.,26672,2020-03-29 17:00:00,TNS,26.39,APTX
-"Dave & Buster's Entertainment, Inc.",26446,2020-04-01 17:00:00,TNS,15.94,PLAY
-"Ocugen, Inc.",26259,2020-03-26 17:00:00,TNS,3050.0,OCGN
-Las Vegas Sands Corp.,26255,2020-04-21 17:00:00,TNS,-140.0,LVS
-"Cadence Design Systems, Inc.",26228,2020-04-19 17:00:00,TNS,10.7,CDNS
-"Genprex, Inc.",26078,2020-03-29 17:00:00,TNS,,GNPX
-Huntington Bancshares Incorporated,25983,2020-04-22 17:00:00,TNS,-82.25,HBAN
-"Net Element, Inc.",25897,2020-03-29 17:00:00,TNS,-353.33,NETE
-"Vir Biotechnology, Inc.",25704,2020-03-25 17:00:00,TNS,-3.29,VIR
-Harvest Health & Recreation Inc.,25615,2020-04-06 17:00:00,TNS,-342.86,HRVSF
-U.S. Bancorp,25560,2020-04-14 17:00:00,TNS,23.5,USB
-"Teradyne, Inc.",25421,2020-04-20 17:00:00,TNS,14.03,TER
-Kimberly-Clark Corporation,25169,2020-04-21 17:00:00,TNS,7.68,KMB
-"Domino's Pizza, Inc.",25152,2020-04-22 17:00:00,TNS,32.27,DPZ
-STMicroelectronics N.V.,25115,2020-04-21 17:00:00,TNS,-7.89,STM
+ticker,companyShortName,startDateTime,startDateTimeType,surprisePercent,rank
+SNDL,Sundial Growers Inc.,2020-03-29 17:00:00,TNS,-635.14,711780
+BB,BlackBerry Limited,2020-03-30 17:00:00,TNS,119.51,368482
+T,AT&T Inc.,2020-04-21 17:00:00,TNS,-0.94,304104
+BNTX,BioNTech SE,2020-03-30 17:00:00,TNS,-51.16,293027
+INTC,Intel Corporation,2020-04-22 17:00:00,TNS,13.46,280927
+DAL,"Delta Air Lines, Inc.",2020-04-21 17:00:00,TNS,26.72,203740
+APHA,Aphria Inc.,2020-04-13 17:00:00,TNS,148.78,196177
+BAC,Bank of America Corporation,2020-04-14 17:00:00,TNS,-13.23,193873
+WFC,Wells Fargo & Company,2020-04-13 17:00:00,TNS,-96.94,184509
+BLNK,Blink Charging Co.,2020-04-01 17:00:00,TNS,-22.22,172359
+CYDY,CytoDyn Inc.,2020-04-08 17:00:00,TNS,-166.67,165334
+NFLX,"Netflix, Inc.",2020-04-20 17:00:00,TNS,-4.96,164222
+HEXO,HEXO Corp.,2020-03-29 17:00:00,TNS,-1184.09,164133
+SNAP,Snap Inc.,2020-04-20 17:00:00,TNS,-6.67,150685
+WBA,"Walgreens Boots Alliance, Inc.",2020-04-01 17:00:00,TNS,4.25,144430
+VZ,Verizon Communications Inc.,2020-04-23 17:00:00,TNS,3.03,143517
+JNJ,Johnson & Johnson,2020-04-13 17:00:00,TNS,15.29,137238
+C,Citigroup Inc.,2020-04-14 17:00:00,TNS,0.57,127198
+JPM,JPMorgan Chase & Co.,2020-04-13 17:00:00,TNS,-57.65,118182
+IBM,International Business Machines Corporation,2020-04-19 17:00:00,TNS,2.51,113235
+EARS,Auris Medical Holding Ltd.,2020-04-15 17:00:00,TNS,,107068
+GME,GameStop Corp.,2020-03-25 17:00:00,TNS,61.37,107022
+TSM,Taiwan Semiconductor Manufacturing Company Limited,2020-04-15 17:00:00,TNS,2.32,101641
+KO,The Coca-Cola Company,2020-04-20 17:00:00,TNS,14.86,100728
+FCX,Freeport-McMoRan Inc.,2020-04-23 17:00:00,TNS,12.09,97602
+RAD,Rite Aid Corporation,2020-04-15 17:00:00,TNS,-150.0,97330
+GNUS,"Genius Brands International, Inc.",2020-03-29 17:00:00,TNS,,85270
+PG,The Procter & Gamble Company,2020-04-16 17:00:00,TNS,3.36,84468
+CRON,Cronos Group Inc.,2020-03-29 17:00:00,TNS,622.58,79338
+COCP,"Cocrystal Pharma, Inc.",2020-03-26 17:00:00,TNS,28.57,77068
+GRWG,GrowGeneration Corp.,2020-03-26 17:00:00,TNS,-138.46,75762
+NEE,"NextEra Energy, Inc.",2020-04-21 17:00:00,TNS,5.31,75318
+NAK,Northern Dynasty Minerals Ltd.,2020-03-29 17:00:00,TNS,-300.0,75121
+PEIX,"Pacific Ethanol, Inc.",2020-03-25 17:00:00,TNS,7.41,72874
+LMT,Lockheed Martin Corporation,2020-04-20 17:00:00,TNS,4.83,71970
+CHWY,"Chewy, Inc.",2020-04-01 17:00:00,TNS,11.76,71436
+CODX,"Co-Diagnostics, Inc.",2020-03-29 17:00:00,TNS,0.0,70103
+KMI,"Kinder Morgan, Inc.",2020-04-21 17:00:00,TNS,-12.09,67225
+JAGX,"Jaguar Health, Inc.",2020-04-02 17:00:00,TNS,,66814
+MGM,MGM Resorts International,2020-04-22 17:00:00,TNS,563.28,65226
+NEXCF,NexTech AR Solutions Corp.,2020-03-25 17:00:00,TNS,,64238
+HTBX,"Heat Biologics, Inc.",2020-03-29 17:00:00,TNS,30.07,63855
+OGI,OrganiGram Holdings Inc.,2020-04-13 17:00:00,TNS,-64.0,61641
+ALT,"Altimmune, Inc.",2020-03-26 17:00:00,TNS,3.85,58001
+BIIB,Biogen Inc.,2020-04-21 17:00:00,TNS,18.19,57936
+SUNW,"Sunworks, Inc.",2020-03-29 17:00:00,TNS,-1866.67,56116
+TMO,Thermo Fisher Scientific Inc.,2020-04-21 17:00:00,TNS,5.19,54638
+SLB,Schlumberger Limited,2020-04-16 17:00:00,TNS,2.46,54226
+TCNNF,Trulieve Cannabis Corp.,2020-04-07 17:00:00,TNS,230.1,53638
+SAVA,"Cassava Sciences, Inc.",2020-03-25 17:00:00,TNS,38.46,53352
+FUV,"Arcimoto, Inc.",2020-04-13 17:00:00,TNS,-2.56,53330
+GS,"The Goldman Sachs Group, Inc.",2020-04-14 17:00:00,TNS,-7.27,53136
+PLNHF,Planet 13 Holdings Inc.,2020-04-13 17:00:00,TNS,,52716
+HAL,Halliburton Company,2020-04-19 17:00:00,TNS,27.57,51956
+LRCX,Lam Research Corporation,2020-04-21 17:00:00,TNS,0.0,51682
+LULU,Lululemon Athletica Inc.,2020-03-25 17:00:00,TNS,1.83,51488
+UNH,UnitedHealth Group Incorporated,2020-04-14 17:00:00,TNS,2.59,50920
+AA,Alcoa Corporation,2020-04-21 17:00:00,TNS,6.12,49948
+MMEDF,Mind Medicine (MindMed) Inc.,2020-03-29 17:00:00,TNS,,49507
+ABT,Abbott Laboratories,2020-04-15 17:00:00,TNS,11.68,47945
+AXP,American Express Company,2020-04-23 17:00:00,TNS,-71.25,47539
+LLNW,"Limelight Networks, Inc.",2020-04-22 17:00:00,TNS,100.0,46519
+CSIQ,Canadian Solar Inc.,2020-03-25 17:00:00,TNS,151.12,44654
+PM,Philip Morris International Inc.,2020-04-20 17:00:00,TNS,7.08,44645
+MS,Morgan Stanley,2020-04-15 17:00:00,TNS,-11.25,44445
+LLY,Eli Lilly and Company,2020-04-22 17:00:00,TNS,18.24,44249
+LVS,Las Vegas Sands Corp.,2020-04-21 17:00:00,TNS,-140.0,44136
+VFF,"Village Farms International, Inc.",2020-03-29 17:00:00,TNS,-4766.67,43890
+CMG,"Chipotle Mexican Grill, Inc.",2020-04-20 17:00:00,TNS,5.84,43479
+KSHB,"KushCo Holdings, Inc.",2020-04-08 17:00:00,TNS,-159.74,42722
+NXTD,"Nxt-ID, Inc.",2020-03-29 17:00:00,TNS,,42398
+TTNP,"Titan Pharmaceuticals, Inc.",2020-03-29 17:00:00,TNS,0.0,42370
+PVH,PVH Corp.,2020-03-31 17:00:00,TNS,3.98,42333
+OCGN,"Ocugen, Inc.",2020-03-26 17:00:00,TNS,3050.0,42082
+SQNS,Sequans Communications S.A.,2020-04-22 17:00:00,TNS,4.0,42033
+BEEM,Beam Global,2020-03-29 17:00:00,TNS,-180.0,41167
+APD,"Air Products and Chemicals, Inc.",2020-04-22 17:00:00,TNS,-1.07,40523
+BBBY,Bed Bath & Beyond Inc.,2020-04-14 17:00:00,TNS,88.12,40213
+FE,FirstEnergy Corp.,2020-04-22 17:00:00,TNS,4.6,39906
+SPWH,"Sportsman's Warehouse Holdings, Inc.",2020-03-25 17:00:00,TNS,9.95,39894
+ERIC,Telefonaktiebolaget LM Ericsson (publ),2020-04-21 17:00:00,TNS,-2.44,39355
+BX,The Blackstone Group Inc.,2020-04-22 17:00:00,TNS,-8.0,39348
+XLNX,"Xilinx, Inc.",2020-04-21 17:00:00,TNS,9.33,39286
+ISRG,"Intuitive Surgical, Inc.",2020-04-15 17:00:00,TNS,5.74,38961
+STX,Seagate Technology plc,2020-04-21 17:00:00,TNS,5.99,37350
+ERJ,Embraer S.A.,2020-04-03 17:00:00,TNS,-332.2,36345
+BLK,"BlackRock, Inc.",2020-04-15 17:00:00,TNS,3.76,36151
+KMB,Kimberly-Clark Corporation,2020-04-21 17:00:00,TNS,7.68,36066
+ORMP,Oramed Pharmaceuticals Inc.,2020-04-05 17:00:00,TNS,-20.0,35981
+TXN,Texas Instruments Incorporated,2020-04-20 17:00:00,TNS,23.75,35972
+PLAY,"Dave & Buster's Entertainment, Inc.",2020-04-01 17:00:00,TNS,15.94,35711
+GTBIF,Green Thumb Industries Inc.,2020-03-29 17:00:00,TNS,-50.0,35504
+ASML,ASML Holding N.V.,2020-04-14 17:00:00,TNS,-23.7,35101
+AEZS,Aeterna Zentaris Inc.,2020-03-29 17:00:00,TNS,,35091
+SIG,Signet Jewelers Limited,2020-03-25 17:00:00,TNS,5.76,34985
+RH,RH,2020-03-29 17:00:00,TNS,3.62,34346
+MKC,"McCormick & Company, Incorporated",2020-03-30 17:00:00,TNS,4.65,34186
+AIM,AIM ImmunoTech Inc.,2020-03-29 17:00:00,TNS,63.78,34049
+BEAM,Beam Therapeutics Inc.,2020-03-29 17:00:00,TNS,-754.68,33788
+TER,"Teradyne, Inc.",2020-04-20 17:00:00,TNS,14.03,32934
